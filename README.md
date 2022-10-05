@@ -4,7 +4,7 @@ download file and store it in CWD, by just passing the file name &amp; URL
 ### import package in golang file
 
 ```
-import (github.com/codesnail21/goDownloadFile)
+import (github.com/codeArtisan4/goDownloadFile)
 ```
 ```
 func DownloadFile(URL, fileName string) error {
@@ -39,5 +39,5 @@ func DownloadFile(URL, fileName string) error {
 Use directly this Function by 
 
 ```
-go get github.com/codesnail21/goDownloadFile
+go get github.com/codeArtisan4/goDownloadFile
 ```
