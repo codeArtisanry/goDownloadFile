@@ -1,3 +1,3 @@
-module github.com/codesnail21/goDownloadFile
+module github.com/codeArtisanry/goDownloadFile
 
 go 1.18
